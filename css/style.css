@@ -31,7 +31,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
 }
@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 #intro .intro-content h2 {
   color: #0c2e8a;
   margin-bottom: 30px;
-  font-size: 33px;
+  font-size: 64px;
   font-weight: 700;
 }
 
@@ -903,7 +903,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .pic img {
-  max-width: 50%;
+  max-width: 100%;
 }
 
 #team .member .details {
@@ -922,11 +922,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member span {
   font-style: italic;
   display: block;
-  font-size: 11px;
+  font-size: 13px;
 }
 
 #team .member .social {
-  margin-top: 3px;
+  margin-top: 5px;
 }
 
 #team .member .social a {
